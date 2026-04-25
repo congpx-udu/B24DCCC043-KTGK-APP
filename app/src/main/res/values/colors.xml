@@ -2,4 +2,24 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="brand_primary">#1565C0</color>
+    <color name="brand_primary_container">#D8E6FF</color>
+    <color name="brand_on_primary_container">#001A3F</color>
+    <color name="brand_surface">#FFFFFF</color>
+    <color name="brand_background">#F4F6FA</color>
+    <color name="brand_text_secondary">#5F6B7A</color>
+    <color name="brand_divider">#E2E6EE</color>
+
+    <color name="badge_book">#E3F2FD</color>
+    <color name="badge_book_text">#0D47A1</color>
+    <color name="badge_magazine">#FFF3E0</color>
+    <color name="badge_magazine_text">#E65100</color>
+    <color name="badge_ebook">#E8F5E9</color>
+    <color name="badge_ebook_text">#1B5E20</color>
+
+    <color name="fee_color">#2E7D32</color>
+
+    <color name="error_red">#D32F2F</color>
+    <color name="error_red_container">#FFEBEE</color>
 </resources>

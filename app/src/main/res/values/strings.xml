@@ -1,3 +1,37 @@
 <resources>
-    <string name="app_name">KTGK</string>
+    <string name="app_name">Quản lý thư viện</string>
+
+    <string name="title_main">Quản lý thư viện</string>
+    <string name="title_them">Thêm tài liệu</string>
+    <string name="title_sua">Sửa tài liệu</string>
+    <string name="title_chi_tiet">Chi tiết tài liệu</string>
+
+    <string name="hint_tim_kiem">Tìm theo tên tài liệu</string>
+    <string name="action_them">Thêm</string>
+    <string name="action_sua">Sửa</string>
+    <string name="action_xoa">Xoá</string>
+    <string name="action_luu">Lưu</string>
+    <string name="action_huy">Huỷ</string>
+    <string name="action_dong">Đóng</string>
+    <string name="action_sap_xep">Phí giảm dần</string>
+    <string name="action_phi_cao_nhat">Phí cao nhất</string>
+
+    <string name="label_loai">Loại tài liệu</string>
+    <string name="label_ma">Mã tài liệu</string>
+    <string name="label_ten">Tên tài liệu</string>
+    <string name="label_gia">Giá tiền</string>
+    <string name="label_so_trang">Số trang</string>
+    <string name="label_so_ky">Số kỳ phát hành</string>
+    <string name="label_dung_luong">Dung lượng file (MB)</string>
+    <string name="label_phi_muon">Phí mượn</string>
+
+    <string name="filter_tat_ca">Tất cả</string>
+    <string name="empty_list">Chưa có tài liệu nào</string>
+
+    <string name="action_truoc">Trước</string>
+    <string name="action_sau">Sau</string>
+    <string name="page_info">Trang %1$d / %2$d</string>
+
+    <string name="confirm_xoa_title">Xác nhận xoá</string>
+    <string name="confirm_xoa_message">Bạn có chắc muốn xoá tài liệu này?</string>
 </resources>
